@@ -2,7 +2,7 @@ import React from "react";
 import { Component } from "react";
 import slack from '../images/slack.png'
 import git from '../images/git.png'
-import { Route, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import '../styles/main.css';
 
 

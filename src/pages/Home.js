@@ -1,5 +1,4 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
 import icon from '../images/Icon.png';
 import Profile from '../components/profile';
 import Links from '../components/links';
